@@ -1,8 +1,7 @@
 # LeetCode Integrity Crisis: Structural Plagiarism Report
 
-[![License: MIT](https://img.shields.io)](https://opensource.org)
-[![Research](https://img.shields.io)](https://your-link-here.io)
-
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Research](https://img.shields.io/badge/Status-Active-green.svg)](https://github.com/Afghan-0372/leetcode-integrity-report)
 
 An analysis of 1,000+ solutions from recent LeetCode Weekly/Biweekly contests using a custom **Structural Anti-Cheat Engine**. This report uncovers massive plagiarism networks consisting of 40+ individuals sharing identical logic skeletons.
 
