@@ -54,7 +54,7 @@ If one player used a for inside an if, and the other used a while without an if,
 
 2. **Cross-Language protection.**
 **My engine can switch between 'deep' and 'universal' analysis.**
-2.1 - If we compare Python with Python, the ultra precise AST analysis is triggered (r_ast > 0)
+2.1 - If we compare Python with Python, the ultra precise AST analysis is triggered (r_ast > 0).
 2.2 - If we compare Python with Kotlin (or C++), the AST parser will return an error or an empty string. The if r_ast > 0 condition will fail, and the code will switch to combined_sim = r_logic.
 2.3 - **Result:** For Python players, protection is maximum (it's almost impossible to accidentally ban them). For other languages, my advanced Regex skeleton is used, which is still better than a simple text comparison, since it strips out variable names.
 
